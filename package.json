@@ -11,6 +11,11 @@
   },
   "author": "BackRunner",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/backrunner/bark-push.git"
+  },
+  "homepage": "https://github.com/backrunner/bark-push",
   "devDependencies": {
     "@types/node-fetch": "^2.5.12",
     "@typescript-eslint/eslint-plugin": "^4.33.0",
